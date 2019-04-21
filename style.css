@@ -1,0 +1,50 @@
+.rectangleWrapper {
+    display: flex; 
+    padding-left: 50px;
+    padding-top:50px; 
+    padding-right: 50px;
+}
+.rectangles {
+    width: 70px;
+    height: 52px;
+    border: 1px black;
+    margin-left: 20px;
+    margin-bottom: 9px;
+
+}
+.group-rect {
+    text-align: center;
+}
+.group-rect > span {
+    margin-left: 20px;
+}
+#rect1 {
+    background-color: #00ffff;
+}
+#rect2 {
+    background-color: #0000ff;
+}
+#rect3 {
+    background-color:#8a2be2;
+}
+#rect4 {
+    background-color: #ff0015;
+}
+#rect5 {
+    background-color: #5eff00;
+}
+#rect6 {
+    background-color: #00ff95;
+}
+#rect7 {
+    background-color:#ff7f50;
+}
+#rect8 {
+    background-color:#a9a9a9;
+}
+#rect9 {
+    background-color: #ffd700;
+}
+#rect10 {
+    background-color:#808080;
+}
